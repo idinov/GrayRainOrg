@@ -1,4 +1,4 @@
-# GrayRain
+# GrayRain.org
 
 **GrayRain Health Analytics Innovation**
 
